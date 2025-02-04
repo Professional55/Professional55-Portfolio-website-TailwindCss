@@ -9,13 +9,14 @@ const Hero = () => {
       {/* Text Content */}
       <div className="w-full lg:w-1/2 text-center lg:text-left py-8 lg:py-0">
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold">
-          I'm Muhammad Annus
+          I&apos;m Muhammad Annus
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl font-semibold mt-4">
           Software Engineer / Web Developer
         </p>
         <p className="mt-6 text-gray-300 leading-relaxed max-w-lg mx-auto lg:mx-0">
-          I build responsive, user-friendly websites and applications while staying updated with modern technologies.
+          I build responsive, user-friendly websites and applications while
+          staying updated with modern technologies.
         </p>
       </div>
 
